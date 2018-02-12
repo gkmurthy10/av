@@ -1,5 +1,7 @@
 # CHANGELOG
 
+- Disable test for closing threads: Non-deterministic!
+- Change http to https for DTDs definitions in the test config files
 - Add replanning interval parameter for SingleHeuristicDispatcher
 - Bugfix: Close threads of parallel least cost path calculator
 - **0.1.3**
